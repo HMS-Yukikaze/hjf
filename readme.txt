@@ -1,2 +1,3 @@
 the first timr of using git
-git is free software
+it is free software
+lalalala
