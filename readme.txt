@@ -1,3 +1,3 @@
-the first timr of using git
+the first time of using git
 it is free software
 lalalala
